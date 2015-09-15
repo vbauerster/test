@@ -37,4 +37,4 @@ console.assert(found === 6, 'Expected index to be 6');
 
 found = bsearch(arr, 85); // all items are less
 console.log('Find infex of 85: ' +  found);
-console.assert(found === 7, 'Expected index to be 6');
+console.assert(found === 7, 'Expected index to be 7');
