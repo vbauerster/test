@@ -1,5 +1,8 @@
 /**
- * listbox-style binary search
+ * Write a listbox-style binary search for an ordered array of integers.  Listbox-style means that you should return the
+ * index of the first item greater than or equal to the item being searched for; if all items are less, you should
+ * return the index of the last item.  You are guaranteed that there is at least one item in the array.
+ *
  * @param arr input array
  * @param k the itetm being searched for
  * @returns found index
